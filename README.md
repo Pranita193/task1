@@ -1,4 +1,4 @@
 # task1
-#create a database 
-#create table
+# create a database 
+# create table
 # draw ER daigram
